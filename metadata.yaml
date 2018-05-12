@@ -47,6 +47,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6238
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Parker_Willis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22401#Stories-by-American-Authors--Volume-4-
 gutenberg_issued: '2007-08-25'
 gutenberg_type: Text
 identifiers:
