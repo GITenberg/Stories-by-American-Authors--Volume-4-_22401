@@ -1,0 +1,66 @@
+_repo: Stories-by-American-Authors--Volume-4-_22401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+  - agent_name: Bunner, H. C. (Henry Cuyler)
+    alias: Bunner, Henry Cuyler
+    birthdate: 1855
+    deathdate: 1896
+    gutenberg_agent_id: '6156'
+    url: http://www.gutenberg.org/2009/agents/6156
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+  - agent_name: De Forest, John William
+    aliases:
+    - Forest, John William de
+    - De Forest, J. W. (John William)
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '4323'
+    url: http://www.gutenberg.org/2009/agents/4323
+    wikipedia: http://en.wikipedia.org/wiki/John_William_De_Forest
+  - agent_name: Foote, Mary Hallock
+    aliases:
+    - Hallock, Mary
+    - Foote, Mrs. Arthur DeWint
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '2703'
+    url: http://www.gutenberg.org/2009/agents/2703
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hallock_Foote
+  - agent_name: Willis, Nathaniel Parker
+    aliases:
+    - Willis, N. P. (Nathaniel Parker)
+    - Willis, N. Parker (Nathaniel Parker)
+    birthdate: 1806
+    deathdate: 1867
+    gutenberg_agent_id: '6238'
+    url: http://www.gutenberg.org/2009/agents/6238
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Parker_Willis
+description: ''
+gutenberg_issued: '2007-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: Miss Grief, by Woolson -- Love in Old Cloathes, by Bunner -- Two
+  Buckets in a Well, by Willis -- Friend Barton's Concern, by Foote -- An Inspired
+  Lobbyist, by de Forest -- Lost in The Fog, by Brooks.
+title: Stories by American Authors (Volume 4)
+url: http://www.gutenberg.org/ebooks/22401
